@@ -1,0 +1,4 @@
+
+该文件夹下为评价数据集
+
+ln -s ~/Text/data/2013/test_image/ ~/MyText/Net/data/eval/2013
